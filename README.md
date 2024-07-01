@@ -1,3 +1,3 @@
-https://dashboard.stripe.com/test/logs?object=we_1NkRctSJOSsPB8h4WFJg6KsV
+npm install - install all the dependencies 
 
-https://dashboard.stripe.com/test/webhooks/we_1NkRctSJOSsPB8h4WFJg6KsV
+npm start - to start the server
